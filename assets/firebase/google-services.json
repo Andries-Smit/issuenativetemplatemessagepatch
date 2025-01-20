@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18137289457",
+    "project_id": "issuemessagepatch",
+    "storage_bucket": "issuemessagepatch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18137289457:android:3957180f6422be67678f50",
+        "android_client_info": {
+          "package_name": "com.clevr.issuemessagepatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0NdEoq1MnVr-d7Wwi8Tw4mxTaelERAUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
